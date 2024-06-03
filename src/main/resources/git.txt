@@ -1,0 +1,10 @@
+git init
+git status
+git add .
+git commit -m [message]
+git remote add origin [url]
+git remote remove origin
+git branch (xem bao nhieu nhanh)
+git checkout -b [branch name] (tao nhanh)
+git push -u [branch name] ( day tu local len sever)
+git pull -u origin [branch] (keo tu sever ve local)
