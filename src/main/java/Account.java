@@ -5,8 +5,8 @@ public class Account {
     String email;
     String  username;
     String  fullname;
-    int DepartmentID;
-    int PositionID;
+    Department department;
+    Position Position;
     LocalDate CreateDate;
 
 //    @Override
