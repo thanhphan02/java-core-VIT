@@ -1,4 +1,4 @@
 public class ExamQuestion {
-    int id;
-    int QuestionID;
+    Exam examID;
+    Question questionID;
 }

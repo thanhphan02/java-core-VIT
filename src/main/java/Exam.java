@@ -4,8 +4,8 @@ public class Exam {
     int id;
     int code;
     String title;
-    int CategoryID;
+    CategoryQuestion categoryID;
     int duration;
-    int CreatorID;
-    LocalDate CreateDate;
+    Account cretorID;
+    LocalDate createDate;
 }

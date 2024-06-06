@@ -4,5 +4,5 @@ public class Group {
     int id;
     String name;
     Account creator;
-    LocalDate CreateDate;
+    LocalDate createDate;
 }
