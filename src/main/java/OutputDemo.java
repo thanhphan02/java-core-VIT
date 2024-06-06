@@ -9,9 +9,9 @@ public class OutputDemo {
 
 
         //System.out.println
-        System.out.println("Java Core");
-        System.out.println("Java Core");
-        System.out.println("Java Core");
+        System.out.println("\"Java\" Core");
+        System.out.println("'Java' Core");
+        System.out.println("\\Java\\ Core");
 
         // System.out.print
         System.out.print("\tJava Core\n");
