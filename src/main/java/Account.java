@@ -9,6 +9,8 @@ public class Account {
     Department department;
     Position position;
     LocalDate createDate;
+    Group[] groups;
+
 
 //    @Override
 //    public String toString() {
