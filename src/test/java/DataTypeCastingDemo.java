@@ -9,6 +9,7 @@ public class DataTypeCastingDemo {
 
         // Narrowing
         // double -> fload -> long -> int -> short ->byte
+        // Ep kieu thu hep lai co mat mat du lieu
         long m = 8000000000L;
         int n =(int) m;
         System.out.println("m = " + m);

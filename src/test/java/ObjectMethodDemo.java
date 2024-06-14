@@ -9,10 +9,10 @@ public class ObjectMethodDemo {
         // equals
         Dog dog1 = new Dog();
         dog1.name = "Long";
-        dog1.age= 2;
+        dog1.age = 2;
         Dog dog2 = new Dog();
-        dog1.name = "Long";
-        dog1.age= 2;
+        dog2.name = "Long";
+        dog2.age = 2;
         System.out.println(dog1 == dog2);
         System.out.println(dog1.equals(dog2));
     }
