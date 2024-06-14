@@ -8,11 +8,11 @@ public class ConstructorDemo {
         Dog dog1 = new Dog("Long",2);
         System.out.println("dog1 = " + dog1);
 
-        Dog dog2 = new Dog("Ling",2);
+        Dog dog2 = new Dog("Ling");
         System.out.println("dog2 = " + dog2);
 
         // Mac dinh : o tham so
-        Dog dog3 new Dog();
+        Dog dog3 = new Dog();
         System.out.println("dog3 = " + dog3);
     }
 
